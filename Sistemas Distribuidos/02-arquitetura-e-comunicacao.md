@@ -7,7 +7,7 @@ Conceitos básicos:
 - comunicação
 - arquitetura
 - processamento concomitante(concorrente)
-- 
+
 # Arquitetura
 
 Os modelos de arquiteturas que se destacam nesse assunto são:  
@@ -23,7 +23,7 @@ Os modelos de arquiteturas que se destacam nesse assunto são:
 
 A comunicação respeita o modelo TCP/IP
 - endereço IP: servidor, cliente, grupo.
-- máscara ou classe de rede e domínio
+- máscara ou classe de rede e **domínio**
 - socket
 - porta lógica
 
